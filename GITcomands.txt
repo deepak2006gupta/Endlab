@@ -1,0 +1,19 @@
+1.to initiate git repository
+
+--git init
+
+2.to make 3 commits
+
+--git add .
+--git commit -m"First commit created new folder and writen a raw html code"
+
+--git add .
+--git commit -m"Second commit created new css style file and written code"
+
+--git add .
+--git commit -m"Third commit integrated new css style file to html file"
+
+3. to get a history of commit in repository
+
+--git log
+
